@@ -1,7 +1,7 @@
 @import url(./nav.css);
 
 img {
-    max-width: 700px;
+    max-width: 100%;
 }
 
 .articles {
@@ -12,6 +12,7 @@ img {
     max-width: 700px;
     margin: 0 auto;
     padding-block: 20px;
+    padding-inline: 6px;
 }
 
 .article {
