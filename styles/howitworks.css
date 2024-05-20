@@ -1,0 +1,40 @@
+@import url(./general.css);
+@import url(./nav.css);
+
+
+h2 {
+    font-size: 36px;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+li {
+    margin-bottom: 20px;
+    color: var(--text)
+}
+
+
+
+span, p {
+    font-size: 18px;
+}
+
+h2, h4 {
+    color: var(--deep);
+}
+
+section {
+    width: 700px;
+    margin: 0 auto;
+    padding-block: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+}
+
+img {
+    max-width: 700px;
+}
