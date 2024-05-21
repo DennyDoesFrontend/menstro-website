@@ -152,6 +152,10 @@ p {
     color: var(--text);
 }
 
+.blogs .card img {
+    width: 100%;
+}
+
 /* ebook */
 
 .ebook {
